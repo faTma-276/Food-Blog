@@ -30,5 +30,5 @@ The project showcases a modern design for a fictional food blog called *Foodie H
 ---
 ## 🚀 How to Run
 1. Clone or download the repository  
-2. Open `index.html` in your browser  
+2. Open `blog.html` in your browser  
 3. Explore the responsive design 🎉  
